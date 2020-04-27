@@ -1,6 +1,7 @@
 import os
 
 # Testing
+# Testing 2
 class BaseConfig(object):
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SECRET_KEY = "changeme"
